@@ -49,7 +49,7 @@ function App() {
             Software Developer.
         </div>
         <div className='about'>
-        "Software developer with more two year of hands-on experience.
+        "Software developer with more than two year of hands-on experience.
          Proficient in creating user-friendly interfaces and building functional web 
          applications. Enthusiastic about learning and applying new technologies to 
          contribute effectively to development projects."
