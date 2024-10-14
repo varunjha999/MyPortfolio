@@ -46,10 +46,10 @@ function App() {
      <div className='hero'>
       <div className='mid'>
         <div className='heading'> <span className="highlighting">Hello, I'm Varun Jha ,  </span>
-            Full Stack MERN Developer.
+            Software Developer.
         </div>
         <div className='about'>
-        "Emerging Frontend and MERN stack developer with one year of hands-on experience.
+        "Software developer with more two year of hands-on experience.
          Proficient in creating user-friendly interfaces and building functional web 
          applications. Enthusiastic about learning and applying new technologies to 
          contribute effectively to development projects."
